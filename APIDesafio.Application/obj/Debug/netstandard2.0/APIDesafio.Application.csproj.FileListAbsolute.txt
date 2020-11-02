@@ -1,0 +1,14 @@
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\bin\Debug\netstandard2.0\APIDesafio.Application.deps.json
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\bin\Debug\netstandard2.0\APIDesafio.Application.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\bin\Debug\netstandard2.0\APIDesafio.Application.pdb
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\bin\Debug\netstandard2.0\APIDesafio.Domain.Core.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\bin\Debug\netstandard2.0\APIDesafio.Domain.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\bin\Debug\netstandard2.0\APIDesafio.Domain.Core.pdb
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\bin\Debug\netstandard2.0\APIDesafio.Domain.pdb
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\obj\Debug\netstandard2.0\APIDesafio.Application.csprojAssemblyReference.cache
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\obj\Debug\netstandard2.0\APIDesafio.Application.AssemblyInfoInputs.cache
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\obj\Debug\netstandard2.0\APIDesafio.Application.AssemblyInfo.cs
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\obj\Debug\netstandard2.0\APIDesafio.Application.csproj.CoreCompileInputs.cache
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\obj\Debug\netstandard2.0\APIDesafio.Application.csproj.CopyComplete
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\obj\Debug\netstandard2.0\APIDesafio.Application.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Application\obj\Debug\netstandard2.0\APIDesafio.Application.pdb

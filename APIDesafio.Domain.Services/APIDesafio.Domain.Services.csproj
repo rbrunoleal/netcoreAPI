@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APIDesafio.Domain.Core\APIDesafio.Domain.Core.csproj" />
+    <ProjectReference Include="..\APIDesafio.Domain\APIDesafio.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

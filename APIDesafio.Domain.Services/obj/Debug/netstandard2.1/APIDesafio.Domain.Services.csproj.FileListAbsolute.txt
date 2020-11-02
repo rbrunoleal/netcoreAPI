@@ -1,0 +1,14 @@
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\bin\Debug\netstandard2.1\APIDesafio.Domain.Services.deps.json
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\bin\Debug\netstandard2.1\APIDesafio.Domain.Services.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\bin\Debug\netstandard2.1\APIDesafio.Domain.Services.pdb
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\bin\Debug\netstandard2.1\APIDesafio.Domain.Core.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\bin\Debug\netstandard2.1\APIDesafio.Domain.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\bin\Debug\netstandard2.1\APIDesafio.Domain.Core.pdb
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\bin\Debug\netstandard2.1\APIDesafio.Domain.pdb
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\obj\Debug\netstandard2.1\APIDesafio.Domain.Services.csprojAssemblyReference.cache
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\obj\Debug\netstandard2.1\APIDesafio.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\obj\Debug\netstandard2.1\APIDesafio.Domain.Services.AssemblyInfo.cs
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\obj\Debug\netstandard2.1\APIDesafio.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\obj\Debug\netstandard2.1\APIDesafio.Domain.Services.csproj.CopyComplete
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\obj\Debug\netstandard2.1\APIDesafio.Domain.Services.dll
+C:\Users\roberto.andrade.SENIORSOLUTION\Documents\Projetos\APIDesafio\APIDesafio.Domain.Services\obj\Debug\netstandard2.1\APIDesafio.Domain.Services.pdb

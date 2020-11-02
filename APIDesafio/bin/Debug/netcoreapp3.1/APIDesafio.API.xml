@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIDesafio.API</name>
+    </assembly>
+    <members>
+        <member name="M:APIDesafio.API.Controllers.CategoriasController.Get">
+            <summary>
+            Retorna todas as Categorias.
+            </summary>
+            <returns>Categorias</returns>
+            <response code="200">Retorna uma lista de categorias cadastradas na aplicação.</response>
+        </member>
+        <member name="M:APIDesafio.API.Controllers.CategoriasController.Get(System.Int32)">
+            <summary>
+            Retorna uma Categoria.
+            </summary>
+            <returns>Categoria</returns>
+            <response code="200">Retorna a categoria cadastrada na aplicação com base no id da requisição</response>
+        </member>
+        <member name="M:APIDesafio.API.Controllers.CategoriasController.Post(APIDesafio.Application.DTOs.CategoriaDTO)">
+             <summary>
+             Cria uma Categoria.
+             </summary>
+             <remarks>
+             Exemplo:
+            
+                 POST api/Categorias
+                 {        
+                     "descricao": "Categoria1"
+                 }
+            
+             </remarks>
+             <param name="value"></param>
+             <returns>Categoria</returns>
+             <response code="200">Retorna a nova categoria criada</response>
+             <response code="400">Se a categoria não for criada</response>         
+        </member>
+        <member name="M:APIDesafio.API.Controllers.CategoriasController.Put(APIDesafio.Application.DTOs.CategoriaDTO)">
+             <summary>
+             Edita uma Categoria.
+             </summary>
+             <remarks>
+             Exemplo:
+            
+                 PUT api/Categorias
+                 {    
+                     "id": 1,
+                     "descricao": "Categoria2"
+                 }
+            
+             </remarks>
+             <param name="value"></param>
+             <returns>Categoria</returns>
+             <response code="200">Retorna o item editado.</response>
+             <response code="400">Item não foi editado</response>   
+        </member>
+        <member name="M:APIDesafio.API.Controllers.CategoriasController.Delete(APIDesafio.Application.DTOs.CategoriaDTO)">
+             <summary>
+             Deleta uma Categoria.
+             </summary>
+             /// <remarks>
+             Exemplo:
+            
+                 DELETE api/Categorias
+                 {    
+                     "id": 1,
+                     "descricao": "Categoria"
+                 }
+            
+             </remarks>
+             <returns>Categorias</returns>
+             <response code="200">Se a categoria foi excluída</response>
+        </member>
+        <member name="M:APIDesafio.API.Controllers.ProdutosController.Get">
+            <summary>
+            Retorna todos os Produtos.
+            </summary>
+            <returns>Produtos</returns>
+            <response code="200">Retorna uma lista de produtos cadastrados na aplicação.</response>
+        </member>
+        <member name="M:APIDesafio.API.Controllers.ProdutosController.Get(System.Int32)">
+            <summary>
+            Retorna um Produto.
+            </summary>
+            <returns>Produtos</returns>
+            <response code="200">Retorna o produto cadastrado na aplicação com base no id da requisição</response>
+        </member>
+        <member name="M:APIDesafio.API.Controllers.ProdutosController.Post(APIDesafio.Application.DTOs.ProdutoDTO)">
+             <summary>
+             Cria um Produto.
+             </summary>
+             <remarks>
+             Exemplo:
+            
+                 POST api/Produtos
+                 {        
+                     "descricao": "Computador",
+                     "valor": 1000,
+                     "quantidade": 10,
+                     "categoriaId": 1               
+                 }
+                 
+                 OU
+                 
+                 POST api/Produtos
+                 {        
+                     "descricao": "Computador",
+                     "valor": 1000,
+                     "quantidade": 10,        
+                     "categoria": {
+                          "descricao": "Informática"
+                     }
+                 }
+            
+             </remarks>
+             <param name="value"></param>
+             <returns>Produto</returns>
+             <response code="200">Retorna o novo produto criado</response>
+             <response code="400">Se o produto não for criado</response>         
+        </member>
+        <member name="M:APIDesafio.API.Controllers.ProdutosController.Put(APIDesafio.Application.DTOs.ProdutoDTO)">
+             <summary>
+             Edita um Produto.
+             </summary>
+             <remarks>
+             Exemplo:
+            
+                 PUT api/Produtos
+                {        
+                     "id": 2,
+                     "descricao": "Computador",
+                     "valor": 1000,
+                     "quantidade": 15,        
+                     "categoriaId": 1
+                }
+            
+             </remarks>
+             <param name="value"></param>
+             <returns>Produto</returns>
+             <response code="200">Retorna o item editado.</response>
+             <response code="400">Item não foi editado</response>     
+        </member>
+        <member name="M:APIDesafio.API.Controllers.ProdutosController.Delete(APIDesafio.Application.DTOs.ProdutoDTO)">
+             <summary>
+             Deleta um Produto.
+             </summary>
+             /// <remarks>
+             Exemplo:
+            
+                 PUT api/Produtos
+                {        
+                     "id": 2,
+                     "descricao": "Computador",
+                     "valor": 1000,
+                     "quantidade": 15,        
+                     "categoriaId": 1
+                }
+            
+             </remarks>
+             <returns>Produtos</returns>
+             <response code="200">Se o produto foi excluído</response>
+        </member>
+        <member name="M:APIDesafio.API.Controllers.UsuariosController.CreateUser(APIDesafio.Domain.Entity.UserInfo)">
+             <summary>
+             Cria um Usuário.
+             </summary>
+             <remarks>
+             Exemplo:
+                    
+                 {
+                    "email": "admin@admin.com",
+                    "password": "admin"
+                 }    
+            
+             </remarks>
+             <param name="value"></param>
+             <returns>Produto</returns>
+             <response code="200">Retorna o Token de autorização JWT</response>
+             <response code="400">Se o usuário não for criado</response>  
+        </member>
+        <member name="M:APIDesafio.API.Controllers.UsuariosController.Login(APIDesafio.Domain.Entity.UserInfo)">
+             <summary>
+             Efetua Login
+             </summary>
+             <remarks>
+             Exemplo:
+                    
+                 {
+                    "email": "admin@admin.com",
+                    "password": "admin"
+                 }    
+            
+             </remarks>
+             <param name="value"></param>
+             <returns>Produto</returns>
+             <response code="200">Retorna o Token de autorização JWT</response>
+             <response code="400">Se o usuário não for criado</response>  
+        </member>
+    </members>
+</doc>

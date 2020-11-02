@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Application\\APIDesafio.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Application\\APIDesafio.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Application\\APIDesafio.Application.csproj",
+        "projectName": "APIDesafio.Application",
+        "projectPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Application\\APIDesafio.Application.csproj",
+        "packagesPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\roberto.andrade.SENIORSOLUTION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain.Core\\APIDesafio.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain.Core\\APIDesafio.Domain.Core.csproj"
+              },
+              "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\APIDesafio.Domain.csproj": {
+                "projectPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\APIDesafio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain.Core\\APIDesafio.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain.Core\\APIDesafio.Domain.Core.csproj",
+        "projectName": "APIDesafio.Domain.Core",
+        "projectPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain.Core\\APIDesafio.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\roberto.andrade.SENIORSOLUTION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\APIDesafio.Domain.csproj": {
+                "projectPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\APIDesafio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\APIDesafio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\APIDesafio.Domain.csproj",
+        "projectName": "APIDesafio.Domain",
+        "projectPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\APIDesafio.Domain.csproj",
+        "packagesPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roberto.andrade.SENIORSOLUTION\\Documents\\Projetos\\APIDesafio\\APIDesafio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\roberto.andrade.SENIORSOLUTION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
