@@ -3,7 +3,8 @@ Desenvolvimento de Rest API em .NET
 
 .NET CORE 3.1
 
-* Padrões utilizados no projeto:
+Padrões utilizados no projeto:
+
 * Entity Framework (SQLServer)
 * Domain Drive Design (DDD)
 * Autenticação - Identity
