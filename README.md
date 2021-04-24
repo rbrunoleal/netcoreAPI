@@ -1,4 +1,3 @@
-# APIDesafio
 Desenvolvimento de Rest API em .NET
 
 .NET CORE 3.1
